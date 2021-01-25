@@ -35,7 +35,7 @@ This project has been solved on a Jupyter notebook
 Follow the instructions in `Continuous_Control_DDPG.ipynb` to get started with training your own agent!  
 
 #### Results (rewards):
-![results](./plot_p2.PNG)
+![results](./plot_p2.png)
 
 ### Requirements
 #### Libraries:
