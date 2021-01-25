@@ -50,3 +50,9 @@ See `Report.ipynb` for analysis of input hyperparameters (learning rates, etc) a
 
 * For this project you might not need to install Unity3D. This is because the files for the environment were provided by the Udacity Nano degree in Deep reinforcement learning.
 * Make sure to uncompressed the file 'Reacher_Windows_x86_64.zip'
+
+#### For mac
+Use 'Reacher.app.zip' instead of 'Reacher_Windows_x86_64.zip'
+
+#### For Linux
+Use 'Reacher_Linux.zip' instead of 'Reacher_Windows_x86_64.zip'
