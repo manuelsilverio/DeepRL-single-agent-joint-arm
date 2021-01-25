@@ -34,6 +34,8 @@ This project has been solved on a Jupyter notebook
 
 Follow the instructions in `Continuous_Control_DDPG.ipynb` to get started with training your own agent!  
 
+See `Report.ipynb` for analysis of input hyperparameters (learning rates, etc) and output.
+
 #### Results (rewards):
 ![results](./plot_p2.png)
 
